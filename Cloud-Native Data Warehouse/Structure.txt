@@ -1,0 +1,30 @@
+cloud-native-data-warehouse/
+│
+├── data/
+│ ├── raw/
+│ │ ├── sales.csv
+│ │ ├── customers.csv
+│ │ ├── products.csv
+│ │ └── regions.csv
+│
+├── warehouse/
+│ ├── schema.sql
+│ ├── star_snowflake.sql
+│ └── optimized_queries.sql
+│
+├── etl/
+│ ├── load_data.py
+│ └── transform.py
+│
+├── backend/
+│ ├── main.py
+│ ├── database.py
+│ └── models.py
+│
+├── frontend/
+│ ├── index.html
+│ ├── style.css
+│ └── app.js
+│
+├── README.md
+└── requirements.txt

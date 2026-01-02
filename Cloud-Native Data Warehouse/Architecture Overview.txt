@@ -1,0 +1,9 @@
+[CSV Data]
+↓
+[ETL Scripts]
+↓
+[Cloud Data Warehouse (PostgreSQL / BigQuery / Snowflake)]
+↓
+[Backend API (Python FastAPI)]
+↓
+[Frontend Dashboard (HTML + CSS + JS)]
